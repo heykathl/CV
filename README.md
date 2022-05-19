@@ -28,6 +28,8 @@ The marvels of modern technology keep me both motivated and dedicated to working
 - Developed ability to be language agnostic as a result of self-directed learning, regular reflection and evaluation of learning processes.
 - Providing mentorship to new students.
 
+A big part of my Makers journey was the advocacy of self-directed learning, by setting daily goals and cherry picking what I needed to specifically improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight to my learning journey at Makers Academy. In addition to the above, I've written daily [blogs](link) delving into my thoughts and a rollercoaster of emotions throughout this course.
+
 #### Royal Melbourne Institute of Technology (February 2011 - December 2015)
 
 - Bachelor of Urban and Regional Planning (First Class Honours)
@@ -37,12 +39,16 @@ The marvels of modern technology keep me both motivated and dedicated to working
 London Borough of Tower Hamlets (April 2019 - December 2021)  
 Planning Officer
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
 Hobsons Bay City Council (September 2018 - March 2019)  
 Senior Urban Planner
 
-- Any experience relevent to software development
+- Management and determination of a caseload of development proposals (new buildings, extensions, conversions and changes of use).
+- Preparation of detailed legal appeal submissions and representation of the Council at hearings.
+- Negotiate and secure complex legal agreements and planning obligations.
+- Review and approve development applications of junior planners.
+- Representation of the Council at Development Committee Meetings and appeal hearings. 
+
+I've developed a number of skills which I believe would be transferrable and beneficial within the tech industry. 
 
 ## Skills
 

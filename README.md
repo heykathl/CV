@@ -13,8 +13,8 @@ The marvels of modern technology keep me both motivated and dedicated to working
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Travel Angel]     | A multi-page web application platform to upload details and documents for upcoming travel plans                | MongoDB, Mongoose, Express, React, Node.js, JavaScript, HTML, CSS, Material UI             | Jest, React Testing Library      |
 | [Koala]       | A Facebook clone which allows users to sign up, login, create, view and like posts and comments, direct message another user, create, view and edit profiles, add or remove a friend, receive notifications.                                         | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, HTML, CSS           | Jest, Cypress                    |
-| [Chitter]          | A clone of AirBnb which allows you to view, request and book places to stay.  | Javascript, HTML, CSS         | Jest       |   
-| [Bowling]          | A simple game of Bowling, written over a weekend as part of Makers Academy's weekend challenges  | Ruby         | Rspec      |   
+| [MakersBnb]          | A clone of AirBnb which allows you to view, request and book places to stay.  | Javascript, HTML, CSS         | Jest       |   
+| [Chitter]          | A lightweight Twitter clone, written over a weekend as part of Makers Academy's weekend challenges  | Javascript, HTML, CSS        | Jest      |   
 | [Rock Paper Scissors]          | A simple web application game of Rock, Paper and Scissors, written over a weekend as part of Makers Academy's weekend challenges  | Ruby, Sinatra, HTML, CSS         | Rspec, Capybara       |   
 
 ## Skills

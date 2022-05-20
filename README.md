@@ -6,13 +6,34 @@ I began my career-changing journey with Makers Academy taking part in their 4 mo
 
 The marvels of modern technology keep me both motivated and dedicated to working within the industry, where it is already driving meaningful change in almost every major industry.
 
+## Skills
+
+### Soft Skills
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+### Tech Skills
+
+- Ruby, Javascript
+- Rspec, Sinatra, Capybara
+- Jest, Node.js, Express, React, Cypress, React Testing
+- HTML, CSS, Handlebars
+- SQL, PostgreSQL, TablePlus
+- MongoDB, MongoDB Compass & Atlas, Mongoose
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [Travel Angel](link)         | A platform to safely and securely store your documents for upcoming travel plans. | MERN stack and Jest        |
 | [Koala](link)                | A Facebook clone where we were first introduced to the MEHN stack | MEHN Stack, Jest and Cypress             |
-| [Another project](link)                |  |              |
+| [Chitter Challenge](link)                | A Twitter clone |              |
+| [Rock Paper Scissors Challenge](link)                |  |              |
 
 ## Education
 
@@ -28,7 +49,8 @@ The marvels of modern technology keep me both motivated and dedicated to working
 - Developed ability to be language agnostic as a result of self-directed learning, regular reflection and evaluation of learning processes.
 - Providing mentorship to new students.
 
-A big part of my Makers journey was the advocacy of self-directed learning, by setting daily goals and cherry picking what I needed to specifically improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight to my learning journey at Makers Academy. In addition to the above, I've written daily [blogs](link) delving into my thoughts and a rollercoaster of emotions throughout this course.
+A big part of my Makers journey was the advocacy of self-directed learning, by setting daily goals and cherry picking what I needed to specifically learn and/or improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight to my learning journey at Makers Academy. 
+In addition to the above, I've written daily [blogs](link) delving into my thoughts and a rollercoaster of emotions throughout this course.
 
 #### Royal Melbourne Institute of Technology (February 2011 - December 2015)
 
@@ -48,38 +70,9 @@ Senior Urban Planner
 - Review and approve development applications of junior planners.
 - Representation of the Council at Development Committee Meetings and appeal hearings. 
 
-I've developed a number of skills which I believe would be transferrable and beneficial within the tech industry. 
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I've developed a number of soft skills which I believe would be transferrable and beneficial within the tech industry, as described above. 
 
 ## Hobbies
 
-I often find myself exploring London, travelling around the UK and throughout Europe. I have an interest in fitness and self-care, and I enjoy regularly going to the gym, hiking and have recently picked up cycling.
+I often find myself exploring London, with an attempt to find every cafe with great coffee; travelling around the UK and throughout Europe. 
+I have an interest in fitness and self-care, where I enjoy going to the gym, hiking and have recently picked up cycling.

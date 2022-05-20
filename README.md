@@ -41,11 +41,11 @@ My organisational skills have been established through the various projects that
 | Project                                                                        | Description                                                 | Technologies                                                                                            |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | [Travel Angel]                       | A multi-page web application to upload details and documents for upcoming travel plans | MongoDB, Mongoose, Express, React, Node.js, JavaScript, Jest, React Testing Library, HTML, CSS, Material UI |
-| [Koala](https://github.com/<name>/koala) | A Facebook clone                                   | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, Jest, Cypress, HTML, CSS                   |
-| [MakersBnB]                     | An AirBnB clone                                            | Ruby, Sinatra, RSpec, Capybara, Postgres, HTML, CSS                                       |
+| [Koala] | A Facebook clone                                   | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, Jest, Cypress, HTML, CSS                   |                                    |
 | [Chitter]               | A Twitter clone                                 |                                                |
+| [Bowling Challenge]               | A web application game of Rock, Paper and Scissors.                              | Ruby, RSpec 
 | [Rock Paper Scissors]               | A web application game of Rock, Paper and Scissors.                              | Ruby, Sinatra, HTML, CSS, RSpec                                                |
-| [Bowling Challenge]               | A web application game of Rock, Paper and Scissors.                              | Ruby, RSpec                                                |
+                                               |
 
 ## Education
 
@@ -61,8 +61,8 @@ My organisational skills have been established through the various projects that
 - Developed ability to be language agnostic as a result of self-directed learning, regular reflection and evaluation of learning processes.
 - Providing mentorship to new students.
 
-A big part of my Makers journey was the advocacy of self-directed learning, by setting daily goals and cherry picking what I needed to specifically learn and/or improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight to my learning journey at Makers Academy. 
-In addition to the above, I've written daily [blogs](link) delving into my thoughts and a rollercoaster of emotions throughout this course.
+A big part of my Makers journey has been centred around self-directed learning. I set clear, daily goals and cherry pick what I need to specifically learn and/or improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight into my learning journey at Makers Academy. 
+In addition to the above, I have written daily [blogs](link) delving into my thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
 
 #### Royal Melbourne Institute of Technology (February 2011 - December 2015)
 

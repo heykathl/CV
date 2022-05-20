@@ -8,15 +8,6 @@ The marvels of modern technology keep me both motivated and dedicated to working
 
 ## Skills
 
-### Soft Skills
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ### Tech Skills
 
 - Ruby, Javascript
@@ -26,14 +17,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - SQL, PostgreSQL, TablePlus
 - MongoDB, MongoDB Compass & Atlas, Mongoose
 
+### Soft Skills
+
+#### Communication
+I have well-refined written and verbal communication skills which I have developed throughout my professional career and most recently at Makers Academy. As a Town Planner and having worked in both regional and metropolitan Councils in Melbourne and London, my role has been to effectively communicate, advocate and negotiate on complex planning matters relating to the built environment. This has included writing detailed reports, attending developer meetings, tribunals and committees. 
+
+Makers Academy strongly embeds pair programming into its bootcamp, meaning this has become second nature to me. This has developed my ability to solve problems collaboratively and further enhanced my communicative style. When working within a group or pairing environment, I am able to effectively articulate project needs and resolve challenges that arise.
+
+
+
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [Travel Angel](link)         | A platform to safely and securely store your documents for upcoming travel plans. | MERN stack and Jest        |
-| [Koala](link)                | A Facebook clone where we were first introduced to the MEHN stack | MEHN Stack, Jest and Cypress             |
-| [Chitter Challenge](link)                | A Twitter clone |              |
-| [Rock Paper Scissors Challenge](link)                |  |              |
+| Project                                                                        | Description                                                 | Technologies                                                                                            |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [Travel Angel]                       | A multi-page web application to upload details and documents for upcoming travel plans | MongoDB, Mongoose, Express, React, Node.js, JavaScript, Jest, React Testing Library, HTML, CSS, Material UI |
+| [Koala](https://github.com/<name>/koala) | A Facebook clone                                   | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, Jest, Cypress, HTML, CSS                   |
+| [MakersBnB]                     | An AirBnB clone                                            | Ruby, Sinatra, RSpec, Capybara, Postgres, HTML, CSS                                       |
+| [Chitter]               | A Twitter clone                                 |                                                |
+| [Rock Paper Scissors]               | A web application game of Rock, Paper and Scissors.                              | Ruby, Sinatra, HTML, CSS, RSpec                                                |
+| [Bowling Challenge]               | A web application game of Rock, Paper and Scissors.                              | Ruby, RSpec                                                |
 
 ## Education
 

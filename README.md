@@ -1,21 +1,25 @@
 # Kathleen Ly
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience)
+
 As a self-motivated and driven individual with a curiosity in technology, I decided to leave my established career as a Town Planner to pursue my passion in software development and to seek a more fulfilling and creative professional direction. 
 
 I began my career-changing journey with Makers Academy taking part in their 4 month bootcamp, where I adopted coding best-practices and developed a strong understanding of programming fundamentals. The nature of the bootcamp enabled me to both effectively self-manage during independent projects, as well as collaborate as part of a productive team to produce high-quality work.
 
 The marvels of modern technology keep me both motivated and dedicated to working within the industry, where it is already driving meaningful change in almost every major industry.
 
+## Projects
+
+| Name                       | Description                                                                   | Technologies                     |  Testing                           |
+| -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+| [Travel Angel]     | A multi-page web application platform to upload details and documents for upcoming travel plans                | MongoDB, Mongoose, Express, React, Node.js, JavaScript, HTML, CSS, Material UI             | Jest, React Testing Library      |
+| [Koala]       | A Facebook clone which allows users to sign up, login, create, view and like posts and comments, direct message another user, create, view and edit profiles, add or remove a friend, receive notifications.                                         | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, HTML, CSS           | Jest, Cypress                    |
+| [Chitter]          | A clone of AirBnb which allows you to view, request and book places to stay.  | Javascript, HTML, CSS         | Jest       |   
+| [Bowling]          | A simple game of Bowling, written over a weekend as part of Makers Academy's weekend challenges  | Ruby         | Rspec      |   
+| [Rock Paper Scissors]          | A simple web application game of Rock, Paper and Scissors, written over a weekend as part of Makers Academy's weekend challenges  | Ruby, Sinatra, HTML, CSS         | Rspec, Capybara       |   
+
 ## Skills
 
-### Tech Skills
-
-- Ruby, Javascript
-- Rspec, Sinatra, Capybara
-- Jest, Node.js, Express, React, Cypress, React Testing
-- HTML, CSS, Handlebars
-- SQL, PostgreSQL, TablePlus
-- MongoDB, MongoDB Compass & Atlas, Mongoose
+In addition to the tech skills developed as a result of my time at Makers Academy, I further enhanced my existing soft skills which would be transferrable and beneficial within the tech industry. 
 
 ### Soft Skills
 
@@ -35,16 +39,6 @@ I always seek to develop strong relationships and aspire to display positivity a
 Effective time management and working well under pressure are skills that I excel at. I am productive, proactive and committed to achieving success. I am a self-managed, organised person and have a number of tools and techniques I employ to ensure deadlines, milestones and targets are met – this has been showcased through my time at Makers Academy. 
 
 My organisational skills have been established through the various projects that I’ve completed, particularly my last two group projects. We used a number of organisational tools to prioritise agile development. This included Trello, a Kanban project board for managing tickets and observing workflow, Google drive, to store our resources and documentation of our daily stand-ups and retros, and GitHub issues, to focus on important tasks and manage workflow simultaneously. Additionally, I've used a variety of tools to assist with my note-taking and process modelling, such as Quiver, Miro and Diagrams.net.
-
-## Projects
-
-Project | Description | Technologies Used | Testing Technologies
---- | --- | --- | --- | ---
-[Travel Angel] | A multi-page web application platform to upload details and documents for upcoming travel plans | MongoDB, Mongoose, Express, React, Node.js, JavaScript, HTML, CSS, Material UI | Jest, React Testing Library
-[Koala] | A Facebook clone which allows users to sign up, login, create, view and like posts and comments, direct message another user, create, view and edit profiles, add or remove a friend, receive notifications. | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, HTML, CSS | Jest, Cypress
-[Chitter] | A simple Twitter clone written over a weekend as part of Makers Academy's weekend challenges | Javascript, HTML, CSS | Jest
-[Bowling Challenge] | A simple game of Bowling, written over a weekend as part of Makers Academy's weekend challenges | Ruby | Rspec
-[Rock Paper Scissors] | A simple web application game of Rock, Paper and Scissors, written over a weekend as part of Makers Academy's weekend challenges | Ruby, Sinatra, HTML, CSS | Rspec, Capybara
 
 ## Education
 
@@ -79,9 +73,7 @@ Senior Urban Planner
 - Preparation of detailed legal appeal submissions and representation of the Council at hearings.
 - Negotiate and secure complex legal agreements and planning obligations.
 - Review and approve development applications of junior planners.
-- Representation of the Council at Development Committee Meetings and appeal hearings. 
-
-I've developed a number of soft skills which I believe would be transferrable and beneficial within the tech industry, as described above. 
+- Representation of the Council at Development Committee Meetings and appeal hearings.  
 
 ## Hobbies
 

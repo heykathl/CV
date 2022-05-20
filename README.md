@@ -1,5 +1,5 @@
 # Kathleen Ly
-
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Work Experience](#work-experience)
 As a self-motivated and driven individual with a curiosity in technology, I decided to leave my established career as a Town Planner to pursue my passion in software development and to seek a more fulfilling and creative professional direction. 
 
 I began my career-changing journey with Makers Academy taking part in their 4 month bootcamp, where I adopted coding best-practices and developed a strong understanding of programming fundamentals. The nature of the bootcamp enabled me to both effectively self-manage during independent projects, as well as collaborate as part of a productive team to produce high-quality work.
@@ -61,7 +61,7 @@ Project | Description | Technologies Used | Testing Technologies
 - Providing mentorship to new students.
 
 A big part of my Makers journey has been centred around self-directed learning. I set clear, daily goals and cherry pick what I need to specifically learn and/or improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight into my learning journey at Makers Academy. 
-In addition to the above, I have written daily [blogs](link) delving into my thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
+In addition to the above, I have written daily [blogs]() delving into my thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
 
 #### Royal Melbourne Institute of Technology (February 2011 - December 2015)
 

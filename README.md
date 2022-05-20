@@ -31,6 +31,10 @@ During my time at Makers, I have continuously demonstrated an effective collabor
 
 I always seek to develop strong relationships and aspire to display positivity amongst colleagues, and strongly value the key fundamentals of teamwork. I have recently had the opportunity to further develop this skillset where I have taken on mentorship responsibilities for students in later cohorts of the Makers Bootcamp. Through this mentorship, I've provided guidance on learning outcomes, wellbeing support and overall encouragement.
 
+#### Organisation and Time Management
+Effective time management and working well under pressure are skills that I excel at. I am productive, proactive and committed to achieving success. I am a self-managed, organised person and have a number of tools and techniques I employ to ensure deadlines, milestones and targets are met – this has been showcased through my time at Makers Academy. 
+
+My organisational skills have been established through the various projects that I’ve completed, particularly my last two group projects. We used a number of organisational tools to prioritise agile development. This included Trello, a Kanban project board for managing tickets and observing workflow, Google drive, to store our resources and documentation of our daily stand-ups and retros, and GitHub issues, to focus on important tasks and manage workflow simultaneously. Additionally, I've used a variety of tools to assist with my note-taking and process modelling, such as Quiver, Miro and Diagrams.net.
 
 ## Projects
 

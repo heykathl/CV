@@ -24,6 +24,12 @@ I have well-refined written and verbal communication skills which I have develop
 
 Makers Academy strongly embeds pair programming into its bootcamp, meaning this has become second nature to me. This has developed my ability to solve problems collaboratively and further enhanced my communicative style. When working within a group or pairing environment, I am able to effectively articulate project needs and resolve challenges that arise.
 
+### Team Player
+I am a dedicated team player, which has been evident throughout my professional career and during my time at Makers bootcamp. I have always thrived within a team environment where this has allowed me to collaborate and build strong values, which I see as vital to ensuring a high performing organisation. 
+
+During my time at Makers, I have continuously demonstrated an effective collaborative mindset within group environments to create high quality projects. One notable mention is the ‘Travel Angel’ platform which is a web application that myself and a team produced. The web application uploads details and documents relating to upcoming travel plans. Throughout the application’s two-week production, the team and I provided both technical and EQ support. We ran two daily stand ups and a retrospective catchup at the end of each day to manage our workflow and ensured that everyone felt heard. 
+
+I always seek to develop strong relationships and aspire to display positivity amongst colleagues, and strongly value the key fundamentals of teamwork. I have recently had the opportunity to further develop this skillset where I have taken on mentorship responsibilities for students in later cohorts of the Makers Bootcamp. Through this mentorship, I've provided guidance on learning outcomes, wellbeing support and overall encouragement.
 
 
 ## Projects

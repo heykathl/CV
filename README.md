@@ -13,7 +13,6 @@ The marvels of modern technology keep me both motivated and dedicated to working
 | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
 | [Travel Angel]     | A multi-page web application platform to upload details and documents for upcoming travel plans                | MongoDB, Mongoose, Express, React, Node.js, JavaScript, HTML, CSS, Material UI             | Jest, React Testing Library      |
 | [Koala]       | A Facebook clone which allows users to sign up, login, create, view and like posts and comments, direct message another user, create, view and edit profiles, add or remove a friend, receive notifications.                                         | JavaScript, Express, Node.js, Handlebars, MongoDB, Mongoose, HTML, CSS           | Jest, Cypress                    |
-| [MakersBnb]          | A clone of AirBnb which allows you to view, request and book places to stay.  | Javascript, HTML, CSS         | Jest       |   
 | [Chitter]          | A lightweight Twitter clone, written over a weekend as part of Makers Academy's weekend challenges  | Javascript, HTML, CSS        | Jest      |   
 | [Rock Paper Scissors]          | A simple web application game of Rock, Paper and Scissors, written over a weekend as part of Makers Academy's weekend challenges  | Ruby, Sinatra, HTML, CSS         | Rspec, Capybara       |   
 
@@ -36,9 +35,11 @@ During my time at Makers, I have continuously demonstrated an effective collabor
 I always seek to develop strong relationships and aspire to display positivity amongst colleagues, and strongly value the key fundamentals of teamwork. I have recently had the opportunity to further develop this skillset where I have taken on mentorship responsibilities for students in later cohorts of the Makers Bootcamp. Through this mentorship, I've provided guidance on learning outcomes, wellbeing support and overall encouragement.
 
 #### Organisation and Time Management
-Effective time management and working well under pressure are skills that I excel at. I am productive, proactive and committed to achieving success. I am a self-managed, organised person and have a number of tools and techniques I employ to ensure deadlines, milestones and targets are met – this has been showcased through my time at Makers Academy. 
+Effective time management and working well under pressure are skills that I excel at. I am productive, proactive and committed to achieving success. I am a self-managed, organised person and have a number of tools and techniques I employ to ensure deadlines, milestones and targets are met – this has been showcased through both my previous work experience and my time at Makers Academy.
 
-My organisational skills have been established through the various projects that I’ve completed, particularly my last two group projects. We used a number of organisational tools to prioritise agile development. This included Trello, a Kanban project board for managing tickets and observing workflow, Google drive, to store our resources and documentation of our daily stand-ups and retros, and GitHub issues, to focus on important tasks and manage workflow simultaneously. Additionally, I've used a variety of tools to assist with my note-taking and process modelling, such as Quiver, Miro and Diagrams.net.
+Within my past work experience, I consistently manage a large caseload of circa 80 planning applications, appeal submissions and hearings, development committee and pre-application meetings, and counter and phone duties. I am able to prioritise tasks and ensure that my time is used efficiently. 
+
+My organisational skills have been further established through various projects that I’ve completed, particularly my last two group projects. We used a number of organisational tools to prioritise agile development. This included Trello, a Kanban project board for managing tickets and observing workflow, Google drive, to store our resources and documentation of our daily stand-ups and retros, and GitHub issues, to focus on important tasks and manage workflow simultaneously. Additionally, I've used a variety of tools to assist with my note-taking and process modelling, such as Quiver, Miro and Diagrams.net.
 
 ## Education
 
@@ -55,7 +56,7 @@ My organisational skills have been established through the various projects that
 - Providing mentorship to new students.
 
 A big part of my Makers journey has been centred around self-directed learning. I set clear, daily goals and cherry pick what I need to specifically learn and/or improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight into my learning journey at Makers Academy. 
-In addition to the above, I have written daily [blogs]() delving into my thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
+In addition to the above, I have written a [Blog]() delving into my daily thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
 
 #### Royal Melbourne Institute of Technology (February 2011 - December 2015)
 

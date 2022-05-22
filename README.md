@@ -18,7 +18,7 @@ The marvels of modern technology keep me both motivated and dedicated to working
 
 ## Skills
 
-In addition to the tech skills developed as a result of my time at Makers Academy, I further enhanced my existing soft skills which would be transferrable and beneficial within the tech industry. 
+In addition to the tech skills developed as a result of my time at Makers Academy, I further enhanced my existing soft skills that will be transferable and beneficial within the tech industry.
 
 ### Soft Skills
 

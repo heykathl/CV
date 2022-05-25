@@ -24,9 +24,9 @@ In addition to the tech skills developed as a result of my time at Makers Academ
 ### Soft Skills
 
 #### Communication
-I have well-refined written and verbal communication skills which I have developed throughout my professional career and most recently at Makers Academy. In my previous professional role as a Town Planner, I've been able to effectively communicate, advocate and negotiate with a broad range of developers, landowners and end-user businesses to achieve best-practice planning outcomes. I worked on projects ranging from complex land-ownership and use issues to large-scale, commercial tall buildings within East London. This has included writing detailed reports, attending developer meetings, tribunals and committees. 
+I have well-refined written and verbal communication skills which I have developed throughout my professional career and most recently at Makers Academy. In my previous professional role as a Town Planner, I've been able to effectively communicate, advocate and negotiate with a broad range of developers, landowners and end-user businesses to achieve best-practice planning outcomes. I worked on projects ranging from complex land-ownership and use issues to large-scale, commercial tall buildings within East London. This has included writing detailed reports and attending developer meetings, tribunals and committees. 
 
-Makers Academy strongly embeds pair programming into its bootcamp, meaning this has become second nature to me. This has developed my ability to solve problems collaboratively and further enhanced my communicative style. When working within a group or pairing environment, I am able to effectively articulate project needs and resolve challenges that arise.
+Makers Academy strongly embeds pair programming into its bootcamp, meaning this has become second nature to me. This has developed my ability to solve problems collaboratively and further enhanced my communicative style. When working within a group or pairing environment, I can effectively articulate project needs and resolve challenges that arise.
 
 #### Team Player
 I am a dedicated team player, which has been evident throughout my professional career and during my time at Makers bootcamp. I have always thrived within a team environment where this has allowed me to collaborate and build strong values, which I see as vital to ensuring a high performing organisation. 
@@ -38,7 +38,7 @@ I always seek to develop strong relationships and aspire to display positivity a
 #### Organisation and Time Management
 Effective time management and working well under pressure are skills that I excel at. I am productive, proactive and committed to achieving success. I am a self-managed, organised person and have a number of tools and techniques I employ to ensure deadlines, milestones and targets are met – this has been showcased through both my previous work experience and my time at Makers Academy.
 
-Within my past work experience, my role included consistently managing a caseload of up to 80 individual planning applications, each with their own set of clients, agents and consultees; appeal submissions and hearings, development committee and pre-application meetings, and counter and phone duties. Throught this, I am able to prioritise tasks and ensure that my time is used efficiently. 
+Within my past work experience, my role included consistently managing a caseload of up to 80 individual planning applications, each with their own set of clients, agents and consultees; appeal submissions and hearings, development committee and pre-application meetings, and counter and phone duties. Through this, I am able to prioritise tasks and ensure that my time is used efficiently. 
 
 My organisational skills have been further established through various projects that I’ve completed, particularly my last two group projects. We used a number of organisational tools to prioritise agile development. This included Trello, a Kanban project board for managing tickets and observing workflow, Google drive, to store our resources and documentation of our daily stand-ups and retros, and GitHub issues, to focus on important tasks and manage workflow simultaneously. Additionally, I've used a variety of tools to assist with my note-taking and process modelling, such as Quiver, Miro and Diagrams.net.
 
@@ -57,7 +57,7 @@ My organisational skills have been further established through various projects 
 - Providing mentorship to new students.
 
 A big part of my Makers journey has been centred around self-directed learning. I set clear, daily goals and cherry pick what I need to specifically learn and/or improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight into my learning journey at Makers Academy. 
-In addition to the above, I have written a [Blog](https://medium.com/@heykathl) delving into my daily thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
+In addition to the above, I have written a [Blog]() delving into my daily thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
 
 #### Royal Melbourne Institute of Technology (February 2011 - December 2015)
 

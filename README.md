@@ -49,15 +49,15 @@ My organisational skills have been further established through various projects 
 - Development of programming fundamentals including SOLID and OOP; with a strong focus on test and behaviour driven development and continuous integration.
 - Incorporation of features, integration and unit testing with experience in Rspec, Jest, Capybara, and Cypress.
 - Proficient coding in both Ruby and Javascript.
-- Experience in full stack web development on both client and server side; resulting in a deep understanding of the MVC: understanding of PostgreSQL and MongoDB; and experience with HTML and CSS.
-- Developed a number of group projects using the MERN and MEHN stack as well as use of APIs. 
+- Experience in full stack web development on both client and server side; resulting in a deep understanding of the MVC: understanding of relational (PostgreSQL) and non-relational (MongoDB) databases; and experience with HTML and CSS.
+- Developed a number of group projects using the MERN and MEHN stack and the use of fetching APIs. 
 - Previous experience in and technology-focused development in communication, team work and time management skills.
 - Significant exposure and experience with pair programming.
 - Developed ability to be language agnostic as a result of self-directed learning, regular reflection and evaluation of learning processes.
 - Providing mentorship to new students.
 
 A big part of my Makers journey has been centred around self-directed learning. I set clear, daily goals and cherry pick what I need to specifically learn and/or improve on. Please see my [Portfolio](https://github.com/heykathl/Portfolio) which gives an insight into my learning journey at Makers Academy. 
-In addition to the above, I have written a [Blog]() delving into my daily thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
+In addition to the above, I have written a [Blog](https://medium.com/@heykathl) delving into my daily thoughts, reflections and overall rollercoaster of emotions throughout the duration of the bootcamp.
 
 #### Royal Melbourne Institute of Technology (February 2011 - December 2015)
 
